@@ -53,45 +53,43 @@ Son los pasos y procedimientos que sigues para que la compra sea ágil y placent
 Evidencia Física (Physical Evidence)\
 Son todas las señales tangibles que le dan credibilidad y confianza al cliente. En un puesto, es la limpieza del lugar, la buena presentación de los aguacates, la báscula visible y calibrada, los carteles con precios claros, la higiene del vendedor (mandil, guantes), incluso la música o la iluminación.
 
-Obtuvimos 101 respuestas:
-
-<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption><p>Resultado de la encuesta, hecha a familiares, amigos y compañeros. imagen propia</p></figcaption></figure>
 
 Producto: Todo lo relacionado con características, calidad, estado y lo que buscan los clientes:
 
-<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption><p>Los encuestados prefieren tener aguacates para comer al momento y otros para madurarlos. imagen propia</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption><p>Hay gustos variados cuando se compra el aguacate. Imagen propia</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption><p>El 32% de los encuestados compran un kilo, seguido de los que comprar por unidades. Imagen propia</p></figcaption></figure>
 
 Precio: todo lo relacionado con el costo.
 
-<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption><p>La mayoria de los clientes tienen frecuencia en comprar este producto. Imagen propia</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption><p>Las personas suelen tener un lugar cercano y de confianza. Imagen propia</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption><p>La percepción del precio actual del aguacate para los clientes es dividida. Imagen propia</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption><p>La mayoria decide seguir comprando, apesar si este sube de precio. Imagen propia</p></figcaption></figure>
 
 Promoción: información, comunicación, ofertas, etc...
 
-<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption><p>Algunos siguen prefiriendo el trato directo y la atención del vendedor, mientras otros, les gustaria recibir el precio en plataformas digitales. Imagen propia</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption><p>"La preferencia por carteles en el puesto (37%) supera ligeramente a WhatsApp (35%), lo que indica que los clientes aún valoran la comunicación visual directa en el punto de venta." imagen propia</p></figcaption></figure>
 
 Personas: Atención, relación con el vendedor, confianza:
 
-<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption><p>La mayoría de los clientes compran aguacate para consumo familiar (80.2%), dejando muy por debajo la compra para uso personal o para negocio, lo que refuerza que el producto se percibe como un básico del hogar. Imagen propia</p></figcaption></figure>
 
 Proceso: Forma de comparar, facilidad de compra y forma de como se realizan los cobros:&#x20;
 
-<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption><p>Más de la mitad de los clientes (57.4%) se enteran del precio del aguacate simplemente cuando pasan por el puesto y lo ven, lo que confirma que la decisión de compra sigue siendo impulsiva y visual, más que planificada o digital. imagen propia</p></figcaption></figure>
 
 Evidencia Física: Presentación, limpieza, imagen del lugar.
 
-<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption><p>"Los clientes valoran de manera muy equilibrada las cuatro características principales del aguacate, siendo la frescura la que encabeza ligeramente la preferencia, pero sin que ninguna destaque de forma abrumadora." Imagen propia</p></figcaption></figure>
 
 ¿Esto para que nos sirve?
 
@@ -107,9 +105,7 @@ Este modelo de negocio se ha popularizado en los últimos años gracias al acces
 
 El comercio electrónico no solo beneficia a los compradores, que ahorran tiempo y comparan precios fácilmente, sino también a los vendedores, que pueden llegar a más clientes sin necesidad de tener un local físico. Sin embargo, también implica desafíos como la logística de envíos, la seguridad en los pagos y la competencia digital.
 
-<figure><img src=".gitbook/assets/image (30).png" alt="" width="563"><figcaption></figcaption></figure>
-
-Imagen para usar en redes sociales
+<figure><img src=".gitbook/assets/image (30).png" alt="" width="563"><figcaption><p>Imagen digitalizada con la tipografía para identificarse en redes sociales. Imagen propia</p></figcaption></figure>
 
 ¿Cómo podemos implementar el puesto al comercio electrónico?
 
@@ -117,17 +113,13 @@ Dar a conocer nuestro producto a más personas por medio de redes sociales. Haci
 
 Cuando los clientes pasen por el puesto, podrán ofrecer la opción de entrega a domicilio. Tener atención personal por medio de whatsapp. Entrar a facebook y buscar grupos especializados en el producto, esto ayuda también a generar una comunidad tanto con otros vendedores, productores y clientes.
 
-<figure><img src=".gitbook/assets/image (31).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (31).png" alt="" width="563"><figcaption><p>Pagina de Facebook para interactuar en grupos y venta de market places. Imagen propia</p></figcaption></figure>
 
-Pagina de Facebook para interactuar en grupos y venta de marketplaces.
+<figure><img src=".gitbook/assets/image (32).png" alt="" width="563"><figcaption><p>Perfil de instagram con contenido sobre el cuidado del agucate e información general sobre el aguacate. Imagen propia</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (32).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Perfil de instagram con contenido sobre el cuidado del agucate e informacion general sobre el aguacate
 
-<figure><img src=".gitbook/assets/image (33).png" alt="" width="563"><figcaption></figcaption></figure>
-
-tik tok para reels con recetas, información y todo lo referente al aguacate
+<figure><img src=".gitbook/assets/image (33).png" alt="" width="563"><figcaption><p>tik tok para reels con recetas, información y todo lo referente al aguacate. Imagen propia</p></figcaption></figure>
 
 Tipo de comercio electrónico: &#x20;
 
@@ -137,10 +129,7 @@ Ecosistema Digital:
 
 &#x20;Es el entorno o espacio virtual que surge gracias al uso de las tecnologías de la información y la comunicación, en el cual interactúan personas, empresas e instituciones con el propósito de realizar todo tipo de transacciones comerciales, intercambiar bienes, servicios o información, y establecer relaciones comerciales y sociales. A diferencia del mercado tradicional, que se limita a un lugar físico y horarios establecidos. En este ecosistema convergen plataformas, herramientas digitales, estrategias de comunicación y métodos de pago que facilitan desde la búsqueda y exhibición de productos, hasta la negociación, la compra y la entrega, transformando la forma en que se crea valor y cómo se relacionan quienes ofrecen y quienes adquieren productos o servicios.
 
-<figure><img src=".gitbook/assets/image (34).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (34).png" alt="" width="563"><figcaption><p>Con las plataformas plataformas digitales llegamos a mas personas y a bajo costo. Imagen propia</p></figcaption></figure>
 
-Con las plataformas plataformas digitales llegamos a mas personas y a bajo costo.&#x20;
+<figure><img src=".gitbook/assets/image (35).png" alt="" width="563"><figcaption><p>Promociones especiales en historias para las personas que nos agreguen en whatsapp, facebook, instagram. Imagen propia</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (35).png" alt="" width="563"><figcaption></figcaption></figure>
-
-Promociones especiales en historias para las personas que nos agregen en whatsapp, facebook, instagram.

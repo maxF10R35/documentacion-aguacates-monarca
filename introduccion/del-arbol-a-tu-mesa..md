@@ -16,14 +16,10 @@ En los puntos de venta finales, el aguacate ya empieza a madurar. Los encargados
 
 En la cocina, el aguacate se pela, se desprende el hueso y se parte en rebanadas o se muele para guacamole. De la tierra michoacana a la mesa familiar, han pasado entre cuatro y siete días. En ese lapso, el aguacate fue cosechado a mano, transportado cientos de kilómetros, revendido varias veces, seleccionado por tenderos y finalmente comprado por un consumidor. Ningún paso fue producto del azar. Cada mano que lo tocó, lo cuidó para que llegara entero, fresco y en su punto.
 
-![](<../.gitbook/assets/image (5).png>)<br>
+<figure><img src="../.gitbook/assets/image (36).png" alt="" width="361"><figcaption><p>Zitácuaro, uno de los municipios encargados de abastecer a Mexico de aguacate (vista de la huerta de la familia Medina). Imagen: familia Medina</p></figcaption></figure>
 
 Zitacuaro, uno de los municipios encargados de abastecer a Mexico de aguacate (vista de la huerta de la familia Medina)
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption><p>Si los aguacates, no son transportados cuidadosamente, pueden afectar su maduración. Imagen propia</p></figcaption></figure>
 
-Si los aguacates, no son transportados cuidadosamente, pueden afectar su maduración.
-
-<div align="center"><figure><img src="../.gitbook/assets/image (8).png" alt="" width="188"><figcaption></figcaption></figure></div>
-
-El aguacate con defecto no puede ser exportado, quedandose para el consumo local.
+<div align="center"><figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption><p>El aguacate con defecto no puede ser exportado, quedandose para el consumo local. imagen propia</p></figcaption></figure></div>
