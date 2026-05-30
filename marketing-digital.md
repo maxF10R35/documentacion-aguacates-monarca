@@ -107,7 +107,7 @@ Este modelo de negocio se ha popularizado en los últimos años gracias al acces
 
 El comercio electrónico no solo beneficia a los compradores, que ahorran tiempo y comparan precios fácilmente, sino también a los vendedores, que pueden llegar a más clientes sin necesidad de tener un local físico. Sin embargo, también implica desafíos como la logística de envíos, la seguridad en los pagos y la competencia digital.
 
-<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (30).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Imagen para usar en redes sociales
 
@@ -117,15 +117,15 @@ Dar a conocer nuestro producto a más personas por medio de redes sociales. Haci
 
 Cuando los clientes pasen por el puesto, podrán ofrecer la opción de entrega a domicilio. Tener atención personal por medio de whatsapp. Entrar a facebook y buscar grupos especializados en el producto, esto ayuda también a generar una comunidad tanto con otros vendedores, productores y clientes.
 
-<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (31).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Pagina de Facebook para interactuar en grupos y venta de marketplaces.
 
-<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (32).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Perfil de instagram con contenido sobre el cuidado del agucate e informacion general sobre el aguacate
 
-<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (33).png" alt="" width="563"><figcaption></figcaption></figure>
 
 tik tok para reels con recetas, información y todo lo referente al aguacate
 
@@ -137,10 +137,10 @@ Ecosistema Digital:
 
 &#x20;Es el entorno o espacio virtual que surge gracias al uso de las tecnologías de la información y la comunicación, en el cual interactúan personas, empresas e instituciones con el propósito de realizar todo tipo de transacciones comerciales, intercambiar bienes, servicios o información, y establecer relaciones comerciales y sociales. A diferencia del mercado tradicional, que se limita a un lugar físico y horarios establecidos. En este ecosistema convergen plataformas, herramientas digitales, estrategias de comunicación y métodos de pago que facilitan desde la búsqueda y exhibición de productos, hasta la negociación, la compra y la entrega, transformando la forma en que se crea valor y cómo se relacionan quienes ofrecen y quienes adquieren productos o servicios.
 
-<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (34).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Con las plataformas plataformas digitales llegamos a mas personas y a bajo costo.&#x20;
 
-<figure><img src=".gitbook/assets/image (35).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (35).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Promociones especiales en historias para las personas que nos agregen en whatsapp, facebook, instagram.
