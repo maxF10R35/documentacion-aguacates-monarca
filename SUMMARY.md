@@ -5,9 +5,13 @@
 * [🥑 Aguacates Monarca](aguacates-monarca.md)
 * [Objetivos del Estudio](objetivos-del-estudio.md)
 
-## minería de datos
+## Objetivos del estudio
 
-* [Page 1](mineria-de-datos/page-1.md)
+* [Page 1](objetivos-del-estudio-1/page-1.md)
+
+## Buscando patrones
+
+* [gustos de los clientes](buscando-patrones/gustos-de-los-clientes.md)
 
 ## Data WareHouse
 
@@ -17,15 +21,12 @@
   * [Análisis Exploratorio de los Datos](fuentes-de-datos/analisis-exploratorio-de-los-datos.md)
 * [Data WareHouse](data-warehouse-1.md)
 * [Marketing Digital](marketing-digital.md)
+* [Minería de Datos](mineria-de-datos.md)
 * [Precios de la Competencia](precios-de-la-competencia.md)
 
-## Estrategias&#x20;
+## Estrategia de marketing
 
-* [Impulsando aguacates monarca](estrategias/impulsando-aguacates-monarca.md)
-
-***
-
-* [Minería de Datos](mineria-de-datos-1.md)
+* [Impulsando aguacates monarca](estrategia-de-marketing/impulsando-aguacates-monarca.md)
 
 ## Optimizacion de inventario
 
