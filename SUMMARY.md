@@ -83,7 +83,7 @@
 
 ## Referencias y Anexos
 
-* [Page 2](referencias-y-anexos/page-2.md)
+* [referencias](referencias-y-anexos/referencias.md)
 
 ## Clima y su impacto&#x20;
 
