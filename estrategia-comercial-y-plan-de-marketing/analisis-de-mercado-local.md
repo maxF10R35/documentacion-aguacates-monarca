@@ -69,4 +69,6 @@ Precio: todo lo relacionado con el costo.
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Las personas suelen tener un lugar cercano y de confianza. Imagen propia</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>La percepción del precio actual del aguacate para los clientes es dividida. Imagen propia</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
