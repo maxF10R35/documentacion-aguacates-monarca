@@ -1,37 +1,11 @@
 # referencias
 
-### Fuentes de Información y Soporte Técnico
+### Referencias Bibliográficas
 
-Para el desarrollo de la interpretación agronómica y la validación de las variables climáticas de este modelo, se tomaron como referencia los manuales, bases de datos y estudios de las siguientes instituciones de carácter oficial y académico:
+Comité Estatal de Sanidad Vegetal de Michoacán \[CESAVEM]. (s.f.). _Fichas Técnicas de la Campaña de Sanidad Vegetal del Aguacate (Manejo del Complejo Tristeza y Antracnosis)_. Sitio Oficial de Sanidad Vegetal del Estado de Michoacán. https://www.cesavem.org.mx
 
-**INIFAP (Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias)**
+Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias \[INIFAP]. (s.f.). _Manual para la Producción de Aguacate en Michoacán y Agenda de Innovación Tecnológica_. Repositorio Institucional de la Secretaría de Agricultura y Desarrollo Rural (SADER).
 
-**Documento:** _Manual para la Producción de Aguacate en Michoacán_ y _Agenda de Innovación Tecnológica_.
+Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria \[SENASICA]. (s.f.). _Fichas de Vigilancia Epidemiológica Fitosanitaria e Historial de Plagas_. Sistema Nacional de Información Fitosanitaria. https://www.gob.mx/senasica
 
-**Plataforma de consulta:** Repositorio Institucional de la Secretaría de Agricultura y Desarrollo Rural (SADER).
-
-**Utilidad en el proyecto:** Soporte teórico para la relación entre el aporte hídrico natural y el llenado del fruto de aguacate Hass.
-
-**CESAVEM (Comité Estatal de Sanidad Vegetal de Michoacán)**
-
-**Documento:** _Fichas Técnicas de la Campaña de Sanidad Vegetal del Aguacate_ (Manejo del Complejo Tristeza y Antracnosis).
-
-**Plataforma de consulta:** Sitio Oficial de Sanidad Vegetal del Estado de Michoacán (cesavem.org.mx).
-
-**Utilidad en el proyecto:** Respaldo científico sobre cómo el microclima del estado mixto ($s\_2$) incrementa la presión fitosanitaria por hongos en Zitácuaro.
-
-**SENASICA (Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria)**
-
-**Documento:** _Fichas de Vigilancia Epidemiológica Fitosanitaria e Historial de Plagas_.
-
-**Plataforma de consulta:** Sistema Nacional de Información Fitosanitaria (gob.mx/senasica).
-
-**Utilidad en el proyecto:** Parámetros normativos y biológicos para el monitoreo preventivo en huertos de exportación.
-
-**UNAM - CIGA (Centro de Investigaciones en Geografía Ambiental, Campus Morelia)**
-
-**Documento:** _Estudios sobre las propiedades de los suelos de origen volcánico (Andosoles) en la franja aguacatera de Michoacán_.
-
-**Plataforma de consulta:** Repositorio Académico de la UNAM / Revista Mexicana de Ciencias Geológicas.
-
-**Utilidad en el proyecto:** Fundamento edafológico para la lixiviación y lavado de nitrógeno/potasio en la zona radicular ante el estado de lluvia continua ($s\_3$).
+Universidad Nacional Autónoma de México, Centro de Investigaciones en Geografía Ambiental \[UNAM - CIGA]. (s.f.). _Estudios sobre las propiedades de los suelos de origen volcánico (Andosoles) en la franja aguacatera de Michoacán_. Repositorio Académico de la UNAM / Revista Mexicana de Ciencias Geológicas.
