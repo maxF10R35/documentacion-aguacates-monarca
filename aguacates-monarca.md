@@ -37,7 +37,7 @@ Pero, ¿qué pasa con lo que rodea su emprendimiento? ¿Cuál es el camino del a
 
 El puesto enfrenta una competencia constante con recauderías, mercados y supermercados. Sin embargo, a pesar de ello, ha logrado mantener la preferencia de sus clientes gracias a que ofrece un producto de buena calidad.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Lona publicitaria del micronegocio. Imagen propia</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Lona publicitaria del micronegocio. Imagen propia</p></figcaption></figure>
 
 
 

@@ -10,7 +10,6 @@
 
 ***
 
-* [Marketing Digital](marketing-digital.md)
 * [Minería de Datos](mineria-de-datos.md)
 * [Precios de la Competencia](precios-de-la-competencia.md)
 
