@@ -32,6 +32,23 @@
 
 * [Maximización de ganancias](optimizacion-de-inventario/maximizacion-de-ganancias.md)
 
+## Introducción y Contexto
+
+* [El Paradigma del Mercado Justo](introduccion-y-contexto/el-paradigma-del-mercado-justo.md)
+* [Estudio de Caso "Aguacates Monarca"](introduccion-y-contexto/estudio-de-caso-aguacates-monarca.md)
+* [Objetivos del Proyecto](introduccion-y-contexto/objetivos-del-proyecto.md)
+
+## ingeniería y Procesamiento de Datos
+
+* [Fuentes de Información](ingenieria-y-procesamiento-de-datos/fuentes-de-informacion.md)
+* [Extracción y Limpieza](ingenieria-y-procesamiento-de-datos/extraccion-y-limpieza.md)
+
+## Panorama de Producción Agrícola
+
+* [Análisis Histórico Nacional y Estatal](panorama-de-produccion-agricola/analisis-historico-nacional-y-estatal.md)
+* [Tendencias de Producción (Regresión Polinomial)](panorama-de-produccion-agricola/tendencias-de-produccion-regresion-polinomial.md)
+* [Proyección de Rendimiento (Árbol de Regresión)](panorama-de-produccion-agricola/proyeccion-de-rendimiento-arbol-de-regresion.md)
+
 ## Clima y su impacto&#x20;
 
 * [Cadenas de markov](clima-y-su-impacto/cadenas-de-markov/README.md)
