@@ -1,14 +1,6 @@
 # Table of contents
 
-* [Introducción](README.md)
-  * [Del árbol a tu mesa.](introduccion/del-arbol-a-tu-mesa..md)
-* [🥑 Aguacates Monarca](aguacates-monarca.md)
-* [Minería de Datos](mineria-de-datos.md)
-* [Precios de la Competencia](precios-de-la-competencia.md)
-
-## Optimizacion de inventario
-
-* [Maximización de ganancias](optimizacion-de-inventario/maximizacion-de-ganancias.md)
+* [Precios de la Competencia](README.md)
 
 ## Introducción y Contexto
 
