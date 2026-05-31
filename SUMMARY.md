@@ -8,6 +8,7 @@
   * [Análisis Exploratorio de los Datos](fuentes-de-datos/analisis-exploratorio-de-los-datos.md)
 * [Data WareHouse](data-warehouse.md)
 * [Marketing Digital](marketing-digital.md)
+* [Precios de la Competencia](precios-de-la-competencia.md)
 * [Minería de Datos](mineria-de-datos.md)
 
 ## Optimizacion de inventario
