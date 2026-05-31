@@ -12,4 +12,4 @@ La volatilidad se manifiesta de varias formas. Por un lado, los precios al produ
 
 Para los productores de aguacate en Michoacán, esta realidad es cotidiana. Saben que su fruto es valorado en todo el país, pero no tienen certeza de cuánto recibirán por él al día siguiente. Viven con la incertidumbre de si su cosecha alcanzará para cubrir los costos o si tendrán que vender a pérdida. Este paradigma del mercado injusto no solo afecta su economía, sino que desincentiva la producción local de calidad, empuja a la migración y profundiza la desigualdad en el campo mexicano.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>contraste del origen del aguacate en Michoacán con los altos precios finales en la ciudad, destacando el papel de los intermediarios y la volatilidad del mercado." Imagen propia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption><p>contraste del origen del aguacate en Michoacán con los altos precios finales en la ciudad, destacando el papel de los intermediarios y la volatilidad del mercado." Imagen propia</p></figcaption></figure>

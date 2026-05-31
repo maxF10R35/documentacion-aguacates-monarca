@@ -3,19 +3,8 @@
 * [Introducción](README.md)
   * [Del árbol a tu mesa.](introduccion/del-arbol-a-tu-mesa..md)
 * [🥑 Aguacates Monarca](aguacates-monarca.md)
-
-## Buscando patrones
-
-* [gustos de los clientes](buscando-patrones/gustos-de-los-clientes.md)
-
-***
-
 * [Minería de Datos](mineria-de-datos.md)
 * [Precios de la Competencia](precios-de-la-competencia.md)
-
-## Estrategia de marketing
-
-* [Impulsando aguacates monarca](estrategia-de-marketing/impulsando-aguacates-monarca.md)
 
 ## Optimizacion de inventario
 
