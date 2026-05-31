@@ -71,4 +71,28 @@ Precio: todo lo relacionado con el costo.
 
 <figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>La percepción del precio actual del aguacate para los clientes es dividida. Imagen propia</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>La mayoria decide seguir comprando, apesar si este sube de precio. Imagen propia</p></figcaption></figure>
+
+Promoción: información, comunicación, ofertas, etc...
+
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>Algunos siguen prefiriendo el trato directo y la atención del vendedor, mientras otros, les gustaria recibir el precio en plataformas digitales. Imagen propia</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption><p>"La preferencia por carteles en el puesto (37%) supera ligeramente a WhatsApp (35%), lo que indica que los clientes aún valoran la comunicación visual directa en el punto de venta." imagen propia</p></figcaption></figure>
+
+Personas: Atención, relación con el vendedor, confianza:
+
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>La mayoría de los clientes compran aguacate para consumo familiar (80.2%), dejando muy por debajo la compra para uso personal o para negocio, lo que refuerza que el producto se percibe como un básico del hogar. Imagen propia</p></figcaption></figure>
+
+Proceso: Forma de comparar, facilidad de compra y forma de como se realizan los cobros:&#x20;
+
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>Más de la mitad de los clientes (57.4%) se enteran del precio del aguacate simplemente cuando pasan por el puesto y lo ven, lo que confirma que la decisión de compra sigue siendo impulsiva y visual, más que planificada o digital. imagen propia</p></figcaption></figure>
+
+Evidencia Física: Presentación, limpieza, imagen del lugar.
+
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>"Los clientes valoran de manera muy equilibrada las cuatro características principales del aguacate, siendo la frescura la que encabeza ligeramente la preferencia, pero sin que ninguna destaque de forma abrumadora." Imagen propia</p></figcaption></figure>
+
+¿Esto para que nos sirve?
+
+Logramos entender que la decisión de compra de los clientes no depende únicamente del precio o la ubicación. Factores como la confianza en el vendedor (Personas), la rapidez, la frescura del producto (Producto) y la comunicación de ofertas (Promoción) son igual o más importantes para que un pequeño negocio compita con cadenas grandes y mercados. Identificamos áreas de mejora concretas, como el uso de WhatsApp para avisar de producto fresco, mejorar la señalización de precios y aprovechar los días de mayor afluencia (sábado y domingo) con promociones especiales.
+
+Además, nos permite descubrir qué valoran realmente los vecinos y transeúntes: si prefieren pagar un poco más por mejor trato  o si la competencia del tianguis los martes y viernes es una amenaza real. En conclusión, un pequeño puesto puede competir sin gran presupuesto enfocándose en la experiencia del cliente, la confianza y la creatividad en la promoción.
