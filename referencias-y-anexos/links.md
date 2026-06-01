@@ -1,12 +1,14 @@
 # Links
 
-Repositorio de Git Hub con los notebooks y las bases de datos que se ocuparon
+### Repositorio de Git Hub con los notebooks y las bases de datos que se ocuparon
 
 {% embed url="https://github.com/maxF10R35/Estudio-Aguacates-Monarca.git" %}
 
 ### Investigación de operaciones:
 
-\#Código optimización: [https://colab.research.google.com/drive/1t69m3fuen2htLLmZ7yqtDRJ0NgEOY21q#scrollTo=k4f66N2BPJj4](https://colab.research.google.com/drive/1t69m3fuen2htLLmZ7yqtDRJ0NgEOY21q#scrollTo=k4f66N2BPJj4)
+\#Código optimización:&#x20;
+
+{% embed url="https://colab.research.google.com/drive/1t69m3fuen2htLLmZ7yqtDRJ0NgEOY21q#scrollTo=k4f66N2BPJj4" %}
 
 ### Modelos estocásticos:&#x20;
 
