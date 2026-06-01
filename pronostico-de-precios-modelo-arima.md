@@ -32,5 +32,5 @@ Para validar la agudeza del pronóstico mediante _backtesting_, se superpuso el 
 
 <figure><img src=".gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
-El modelo SARIMA demuestra que el mercado mayorista en Iztapalapa se encuentra en una ventana de subvaluación temporal. La recomendación financiera inmediata para "Aguacates Monarca" es ejecutar compras estratégicas de inventario de respaldo durante esta anomalía bajista, bloqueando los costos de adquisición a 350 MXN antes de que la inercia estacional corrija el mercado y empuje los precios hacia el pico inflacionario proyectado inminentemente para el tercer trimestre del año.
+El modelo ARIMA demuestra que el mercado mayorista en Iztapalapa se encuentra en una ventana de subvaluación temporal. La recomendación financiera inmediata para "Aguacates Monarca" es ejecutar compras estratégicas de inventario de respaldo durante esta anomalía bajista, bloqueando los costos de adquisición a 350 MXN antes de que la inercia estacional corrija el mercado y empuje los precios hacia el pico inflacionario proyectado inminentemente para el tercer trimestre del año.
 

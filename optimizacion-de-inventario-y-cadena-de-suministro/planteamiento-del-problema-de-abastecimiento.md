@@ -16,11 +16,11 @@ Buscamos maximizar la ganancia neta de **"Aguacates Monarca"** determinando la m
 
 x\_1 = Cajas de la Central de Abastos
 
-_Ganancia:_ $84.34 / caja-_Costo de compra:_ $590.66
+_Ganancia:_ $84.34 / caja-_Costo de compra:_ $350 MXN
 
 x\_2 = Cajas de Michoacán
 
-_Ganancia:_ $185.50/ caja-_Costo de compra:_ $489.50
+_Ganancia:_ $185.50/ caja-_Costo de compra:_ $489.50(precio de proveedor ya establecido)
 
 #### Restricciones del Sistema
 
