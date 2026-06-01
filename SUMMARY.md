@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Precios de la Competencia](README.md)
-
 ## Introducción y Contexto
 
-* [El Paradigma del Mercado Justo](introduccion-y-contexto/el-paradigma-del-mercado-justo.md)
+* [El Paradigma del Mercado Justo](README.md)
 * [Estudio de Caso "Aguacates Monarca"](introduccion-y-contexto/estudio-de-caso-aguacates-monarca.md)
 * [Objetivos del Proyecto](introduccion-y-contexto/objetivos-del-proyecto.md)
 
@@ -54,8 +52,4 @@
 ## Referencias y Anexos
 
 * [referencias](referencias-y-anexos/referencias.md)
-
-## Clima y su impacto&#x20;
-
-* [Cadenas de markov](clima-y-su-impacto/cadenas-de-markov/README.md)
-  * [referencias](clima-y-su-impacto/cadenas-de-markov/referencias.md)
+* [Links](referencias-y-anexos/links.md)
