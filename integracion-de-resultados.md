@@ -1,57 +1,36 @@
----
-description: >-
-  Cómo los modelos de predicción, optimización y marketing interactúan para
-  formar un escudo comercial para la empresa.
----
-
 # Integración de Resultados
 
-A partir de los resultados obtenidos en la encuesta, recomendamos implementar un sistema de pedidos por WhatsApp con catálogo actualizado diariamente, ya que el 35% de los clientes prefiere este medio y representa una vía de bajo costo para ofrecer apartado de producto fresco y entregas en la colonia durante los fines de semana, que son los días de mayor afluencia. Asimismo, se sugiere crear perfiles en Instagram o Facebook para mostrar el producto recién llegado y atraer al segmento joven de 18 a 29 años que actualmente percibe el precio como poco accesible, utilizando contenido visual que destaque la frescura y el origen michoacano del aguacate. Otra acción concreta es digitalizar la señalización de precios mediante códigos QR en el puesto, que dirijan a una página o mensaje de WhatsApp con promociones y opción de pedido anticipado, modernizando la experiencia sin perder el contacto personal. Para fidelizar a los clientes sensibles al precio, se recomienda lanzar un programa de lealtad digital donde entre mas compres, mas descuentos puedas obtener. Además, frente a la competencia del tianguis los martes y viernes, el negocio puede ofrecer reserva de producto un día antes por el mismo canal, asegurando frescura y disponibilidad. Finalmente, se propone crear un Club de Vecinos con descuento especial los lunes para nivelar las ventas durante la semana y fortalecer el sentido de comunidad alrededor del puesto.
+El presente estudio de caso, sustentado en la aplicación de modelos predictivos y econometría, permite a "Aguacates Monarca" transitar de una toma de decisiones empírica y reactiva a una operación inteligente basada en datos. La integración de los modelos revela directrices fundamentales que funcionan como un ecosistema unificado para garantizar la rentabilidad del ciclo 2026:
 
-<br>
+#### Saturación Territorial y el Imperativo de la Agricultura Intensiva
 
-En base a los estudios realizados y a los resultados, nosotros como científicos de datos le recomendamos a "Aguacates Monarca" que unifique el modelo de clima con el de programación lineal para optimizar el abastecimiento diario entre la Central de Abastos ($$x1​$$) y Michoacán ($$x2​$$).
+La expansión de la frontera agrícola en Michoacán ha alcanzado un punto de fricción. Simultáneamente, el modelo de regresión aisló los umbrales históricos y determinó que la eficiencia operativa ha encontrado un techo óptimo de 12.13 Ton/Ha.
 
-Considerando que el 62.5% de los días del trimestre habrá lluvias, estas son las acciones concretas para ajustar nuestra estrategia:
+&#x20;La estrategia de crecimiento ya no debe basarse en la agricultura extensiva. La inversión (Capex) debe redirigirse obligatoriamente hacia la agrotecnología y nutrición de suelos en las hectáreas actuales para sostener el rendimiento que dicta el algoritmo y diluir los costos fijos.
 
-Ajustar fletes por clima: El 12.5% de los días habrá tormentas que complicarán las carreteras y bajarán el rendimiento de la camioneta. Cuando se pronostique tormenta, subiremos el costo de flete de Michoacán en el script de Python; el modelo gráfico se adaptará recortando esa ruta y sugiriendo comprar más en la Central para no quemar el tope de $1,200 de gasolina.
+#### Inteligencia de Abastecimiento y Capitalización de Anomalías (SARIMAX)
 
-Castigar ganancia por riesgo de hongo: El 50% del trimestre tendremos días mixtos (sol y lluvia), activando el "efecto incubadora" que desata el hongo _Phytophthora_. Si se ligan las alertas al modelo, los días con rachas de humedad castigaremos un poco la ganancia neta de Michoacán ($185.50) para que el algoritmo determine si conviene mover el inventario más rápido o invertir en fungicidas.
+La serie de tiempo en la Central de Abasto sufre de extrema volatilidad estacional. Sin embargo, el _backtesting_ del modelo SARIMAX $$ $(1, 0, 2) \times (1, 0, 1)_{12}$ $$ detectó que el precio actual de mayo 2026 (350 MXN) representa una subvaluación atípica.
 
-Mover el punto óptimo diariamente: En lugar de dejar fijas las 10.7 cajas en la Central y 16.0 en Michoacán, dejaremos que el código mueva el punto óptimo según el clima del día. En tormentas nos iremos al mínimo comercial (5 cajas en la Central) para evitar mermas, y en días buenos daremos luz verde para comprar el máximo en Michoacán (hasta el límite de 35 cajas), aprovechando que la lluvia ligera mejora el calibre de exportación.
+Se recomienda la compra y congelamiento inmediato de inventario. Esta anomalía es temporal; adquirir volumen a 350 MXN/Caja blinda los márgenes de utilidad antes de que el mercado inicie la violenta corrección al alza proyectada para el tercer trimestre.
 
-## Estrategia Comercial Integrada de Aguacates Monarca
+#### Sincronización Operativa: La Estrategia Comercial Integrada
 
-La interacción de nuestros modelos predictivos, el algoritmo de optimización lineal y la estrategia de marketing no operan de forma aislada. Juntos construyen una **estrategia unificada de tres capas** que funciona como un engranaje automatizado: el clima activa las alertas, la programación lineal calcula la carga exacta para la camioneta y el marketing abre o cierra la llave de la demanda de los clientes para que nunca falte ni sobre producto en el negocio.
+La interacción de nuestros modelos predictivos, el algoritmo de optimización lineal y el despliegue de marketing no operan de forma aislada. Juntos construyen una estrategia de tres capas que funciona como un engranaje automatizado: el clima activa las alertas, la programación lineal calcula la carga exacta para la logística y el marketing "abre o cierra la llave" de la demanda para que nunca falte ni sobre producto.
 
-### Estrategia Ofensiva (Frente a Días Soleados y Alta Productividad)
+**Escenario de Ejecución: Estrategia Ofensiva (Alta Productividad)**&#x20;
 
-Este escenario se activa durante el 37.5% de los días del trimestre donde domina el estado puramente soleado ($$s1​$$).
+Este escenario se activa automáticamente durante el 37.5% de los días del trimestre donde el modelo dicta un estado puramente soleado ($$s_1$$).
 
-#### La Alerta del Clima (Markov)
+1. La Alerta Predictiva (Cadenas de Markov): El modelo anticipa días con alta radiación solar, condiciones óptimas para la fotosíntesis y carreteras despejadas. El riesgo fúngico es mínimo y el uso eficiente del agua almacenada garantiza el riego sin sobrecostos energéticos.
+2. La Decisión Matemática (Programación Lineal): El script detecta condiciones operativas ideales (costo logístico base intacto y fruto con calibre premium). La región factible se expande hacia su frontera superior derecha, y el algoritmo otorga luz verde para comprar el máximo permitido por la capacidad física de almacenamiento (35 cajas totales), priorizando la ruta más rentable.
+3. La Ejecución en Calle (Marketing de Alto Impacto): Con la bodega al 100% de capacidad con producto premium, se detona la demanda masiva en el punto de venta físico y digital:
+   1. Atracción Visual: Inundamos Instagram y Facebook con contenido enfocado en frescura y origen, apuntando al segmento de 18 a 29 años para romper la barrera de percepción de precio y demostrar el valor premium.
+   2. Digitalización Transaccional: Implementación de códigos QR en el puesto. Los clientes acceden al catálogo en WhatsApp, pagan sin fricción y agendan entregas a domicilio, eliminando las filas de fin de semana.
+   3. Lealtad y Desplazamiento: Al tener el costo de abastecimiento optimizado por el algoritmo lineal, se lanza una promoción por volumen ("Entre más compres, más ahorras"), forzando un aumento del _ticket_ promedio mientras el aguacate está en su punto máximo de frescura.
 
-El modelo predice días con alta radiación solar, limpia y óptima para la fotosíntesis del cultivo. Las carreteras están despejadas, el riesgo de hongo es mínimo y el uso eficiente del agua almacenada en las ollas de la huerta garantiza el riego sin gastos extra de energía eléctrica.
 
-#### La Decisión Matemática (Programación Lineal)
 
-El script de Python detecta que las condiciones operativas son ideales:
+Operar "Aguacates Monarca" a ciegas conlleva el riesgo de viajar a Michoacán en plena tormenta, inflar los costos de flete, mermar el producto en el trayecto y terminar rematándolo en el puesto para evitar pérdidas.
 
-El costo logístico de la ruta a Michoacán se mantiene en sus valores base sin imprevistos viales.
-
-La ganancia neta de Michoacán se despliega al máximo porque el fruto viene con calibre de exportación premium gracias al llenado hídrico natural previo.
-
-Resultado del modelo: La región factible se expande hacia su esquina superior derecha. El algoritmo da luz verde para comprar el máximo permitido por la capacidad física de almacenamiento (35 cajas totales), priorizando al proveedor más rentable.
-
-#### &#x20;La Ejecución en Calle (Marketing de Alto Impacto)
-
-Con la bodega llena a su máxima capacidad con aguacate michoacano premium, abrimos la llave de la demanda masiva en el puesto:
-
-Campaña Visual en Redes (Atracción Joven): Inundamos Instagram y Facebook con contenido visual enfocado en la frescura y origen michoacano de la fruta. Apuntamos directo al segmento joven de 18 a 29 años para romper la percepción de que el producto es poco accesible, demostrando el valor de la calidad premium.
-
-Digitalización con Códigos QR: Colocamos códigos QR en el puesto físico. Los clientes que ven alta afluencia el fin de semana escanean el código, acceden al catálogo actualizado del día en WhatsApp, pagan de inmediato y agendan su entrega a domicilio en la colonia sin hacer filas.
-
-Programa de Lealtad Digital: Aprovechando que el costo de abastecimiento por caja se optimizó al máximo gracias a la programación lineal, lanzamos la promoción por volumen: _"Entre más compres, más descuentos obtienes"_, forzando el aumento del ticket promedio del puesto mientras el producto está en su punto óptimo de frescura.
-
-> &#x20;Conclusión del Enfoque Integral Si operas Aguacates Monarca a ciegas, corres el riesgo de viajar a Michoacán en plena tormenta, gastar de más en flete, que el producto llegue golpeado por el camino y terminar rematándolo en el puesto.
->
-> Con esta estrategia unificada, la ciencia de datos trabaja para el negocio: blindamos el capital de trabajo cuando el clima castiga la logística y maximizamos las utilidades expandiendo la demanda justo cuando las condiciones juegan a nuestro favor.
+Con esta estrategia unificada, la ciencia de datos trabaja al servicio del negocio: blindamos el capital de trabajo cuando el clima y el mercado castigan la operación, y optimizamos las utilidades expandiendo la demanda exactamente en los momentos donde las variables matemáticas juegan a nuestro favor.
