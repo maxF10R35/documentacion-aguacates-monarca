@@ -1,10 +1,3 @@
----
-description: >-
-  Metodología aplicada (web scraping con BeautifulSoup, depuración de
-  duplicados, realineación de columnas con datos desplazados y manejo de valores
-  atípicos).
----
-
 # Extracción y Limpieza
 
 Se consultaron en el Sistema Nacional de Información e Integración de Mercados (SNIIM) los precios del aguacate Hass de primera, abarcando el periodo desde 2001 hasta 2026. Mediante un proceso de _web scraping_ utilizando la librería BeautifulSoup de Python, se lograron extraer 717,114 registros conformados por 8 columnas: Fecha, Presentación, Origen, Destino, Precio Min, Precio Max, Precio Frec y Obs.
@@ -23,7 +16,7 @@ Finalmente, para el desarrollo de la proyección con el modelo ARIMA, se constru
 
 {% embed url="http://www.economia-sniim.gob.mx/nuevo/Home.aspx" %}
 
-En el caso de la producción de Aguacate, se consultó al Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria. Dado que los datos eran solicitados a una API de Power BI, se usó el análisis de las respuestas en formato json y se recolectaron 405 registros que van desde el 2001 hasta el 2023. Las columnas que conforman este dataset son: Estado, Superficie Sembrada en hectáreas (ha), Volumen Cocechado en Toneladas, Valor que tiene la Cocecha en Pesos Mexicanos y Año de análisis.
+En el caso de la producción de Aguacate, se consultó al Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria. Dado que los datos eran solicitados a una API de Power BI, se usó el análisis de las respuestas en formato json y se recolectaron 405 registros que van desde el 2001 hasta el 2023. Las columnas que conforman este dataset son: Estado, Superficie Sembrada en hectáreas (ha), Volumen Cosechado en Toneladas, Valor que tiene la Cosecha en Pesos Mexicanos y Año de análisis.
 
 Se procesó la base de datos de producción agrícola de aguacate Hass en la pagina del  Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA), la cual abarca el periodo histórico de 2001 a 2023, obteniendo 404 filas. En una primera etapa, los datos eran solicitados a una API de Power BI, se usó el análisis de las respuestas en formato json y posteriormente fue exportado como un archivo `.csv` para optimizar su ingesta. Después, la información se cargó en un entorno de PySpark aplicando un esquema de datos estructurado conformado por cinco variables principales: Estado, Superficie\_Ha, Volumen\_Ton, Valor\_MXN y Anio.
 

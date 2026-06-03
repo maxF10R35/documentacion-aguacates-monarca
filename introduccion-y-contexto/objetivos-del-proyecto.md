@@ -1,12 +1,8 @@
----
-description: Qué se busca resolver con el análisis de datos.
----
-
 # Objetivos del Proyecto
 
 ## Objetivo General
 
-Construir un Data WareHouse que recopile toda la información sobre la producción y los precios del aguacate hass de manera que pueda automatizarse el sedarrollo de un dashboard que muestre visualmente las distintas necesidades de información que tiene la empresa Aguacates Monarca.&#x20;
+Ocupar técnicas de Ciencia de datos, para recopilar, limpiar, analizar y modelar datos sobre el precio y la producción de Aguacate Hass de forma que se ayude a Aguacates Monarca a plantear una estrategía para su cadena de suministro y sus operaciones de los proximos meses.
 
 ### Objetivos Específicos
 
@@ -14,7 +10,7 @@ Recopilar información sobre el panorama del aguacate, principalmente en ciudad 
 
 Describir y predecir el cambio anual en la producción de aguacate, Nacional o de Michoacán.
 
-Desarrollar un modelo de ARIMA que prediga el precio del aguacate por kilo (por caja de 9 kg ?) en la central de abastos de la cdmx y en michoacán.
+Desarrollar un modelo de ARIMA que prediga el precio del aguacate por caja de 9 kg en la central de abastos de la CDMX y en Michoacán.
 
 Entrenar un Árbol de regresión para saber cuánto va a valer nuestra producción de aguacate en relación a la superficie sembrada y el volumen en toneladas cosechado.
 

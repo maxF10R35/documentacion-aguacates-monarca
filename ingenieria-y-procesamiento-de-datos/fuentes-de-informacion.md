@@ -1,7 +1,3 @@
----
-description: Descripción técnica de las bases de datos utilizadas (SNIIM y SENASICA).
----
-
 # Fuentes de Información
 
 Para garantizar la validez, transparencia y rigurosidad del estudio de caso enfocado en la empresa "Aguacates Monarca", el análisis se fundamentó en la extracción y procesamiento de datos provenientes de dos de las instituciones gubernamentales más importantes en el monitoreo del sector agroalimentario en México.

@@ -27,6 +27,6 @@ El algoritmo no solo describe la historia, sino que funciona como un simulador d
 * Volumen Anual Proyectado: 10 Hectáreas × 12.13 Ton/Ha = 121.3 Toneladas brutas.
 * Unidades de Comercialización: 121,300 kg / 9 kg = 13,477 cajas estándar.
 
-Gracias al bajo nivel de error del modelo (RMSE = 0.29), este cálculo cuenta con una desviación de apenas $$ $\pm$ $$ 2.9 toneladas para toda la parcela. Logísticamente, la dirección operativa de la PyME puede asegurar la contratación de transporte de carga y almacenamiento en frío para un volumen que oscilará de manera segura entre 118.4 y 124.2 toneladas.
+Gracias al bajo nivel de error del modelo (RMSE = 0.29), este cálculo cuenta con una desviación de apenas $$\pm$$ 2.9 toneladas para toda la parcela. Logísticamente, la dirección operativa de la PyME puede asegurar la contratación de transporte de carga y almacenamiento en frío para un volumen que oscilará de manera segura entre 118.4 y 124.2 toneladas.
 
 Es importante destacar que este cálculo representa la _capacidad instalada histórica_ de un ciclo anual exitoso. Aunque reportes intermedios (como las cifras semestrales del SIAP a junio de 2024) pueden mostrar caídas temporales por condiciones climáticas, la meta estratégica de "Aguacates Monarca" es apalancar prácticas de agricultura intensiva para asegurar que sus 10 hectáreas alcancen el umbral de las 12.13 Ton/Ha dictado por la máxima eficiencia del modelo estadístico.
