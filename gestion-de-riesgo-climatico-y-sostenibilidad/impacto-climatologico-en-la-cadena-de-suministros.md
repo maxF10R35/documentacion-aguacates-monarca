@@ -1,9 +1,3 @@
----
-description: >-
-  La importancia de los regímenes de lluvia para la cadena de suministro de
-  aguacates monarca.
----
-
 # Impacto Climatológico en la cadena de suministros
 
 ### Modelado Estocástico de la Variabilidad Climática en Zitácuaro y su Impacto en la Cadena de Suministro
@@ -16,15 +10,15 @@ Para transicionar de una gestión reactiva y empírica hacia una estrategia de *
 
 ***
 
-#### &#x20;Sustento Teórico y Configuración Matemáticamente Consistente
+#### &#x20;Matriz de Transición del clima de Zitacuaro
 
 El análisis estocástico se fundamenta en la recopilación de frecuencias y transiciones reales observadas en la zona durante un muestreo base de 30 días, el cual registró un comportamiento inicial de 12 días soleados, 16 días mixtos y 2 días lluviosos. A partir de estos registros, la matriz de transición de estados P queda correctamente definida por su notación decimal pulcra, garantizando la condición de cerradura donde cada fila (intensidad de probabilidad de cambio) suma exactamente 1:
 
 $$P = \begin{pmatrix} 0.667 & 0.333 & 0.000 \\ 0.200 & 0.667 & 0.133 \\ 0.000 & 1.000 & 0.000 \end{pmatrix}$$
 
-Al ejecutar la simulación multi-paso mediante el producto estocástico (v\_{t+1} = v\_t \ P), el sistema estabiliza sus tendencias rápidamente a partir de la segunda semana, convergiendo de manera óptima hacia un **Estado Estable** definitivo para el trimestre:
+Al ejecutar la simulación multi-paso mediante el producto estocástico ( $$v_{t+1} = v_t / P$$ ), el sistema estabiliza sus tendencias rápidamente a partir de la segunda semana, convergiendo de manera óptima hacia un **Estado Estable** definitivo para el trimestre:
 
-**Probabilidad de días Mixtos (s\_2):** 50.0% (Mañanas soleadas con intervalos de chubascos vespertinos).
+**Probabilidad de días Mixtos ($s\_2$):** 50.0% (Mañanas soleadas con intervalos de chubascos vespertinos).
 
 **Probabilidad de días Soleados (s\_1):** 37.5% (Alta radiación solar limpia).
 

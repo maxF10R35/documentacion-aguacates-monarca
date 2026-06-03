@@ -1,9 +1,3 @@
----
-description: >-
-  Costos y restricciones de comprar en Michoacán frente a la Central de Abasto
-  en CDMX.
----
-
 # Planteamiento del Problema de Abastecimiento
 
 ### Sincronización Logística: El Rol del Almacenamiento Estacional (Cold Storage)
@@ -20,7 +14,7 @@ El verdadero valor de integrar analítica predictiva en la PyME radica en la cap
 
 La inercia estacional capturada por el algoritmo predice un incremento acelerado en los costos de adquisición para el tercer trimestre del año debido a la baja producción estacional.Por ello, el sistema activa una directriz de **compra estratégica de inventario de respaldo** para congelar los costos operativos en $350 MXN antes de la corrección al alza del mercado.
 
-#### mplementación Logística: Habilitación de Cold Storage Externo
+#### Implementación Logística: Habilitación de Cold Storage Externo
 
 Para ejecutar esta estrategia de protección financiera sin saturar la capacidad física de nuestra bodega comercial en Los Olivos, el diseño de nuestra cadena de suministro contempla la transición hacia un esquema híbrido mediante la **renta temporal de un espacio de almacenamiento en frío externo (Cold Storage)**.
 
