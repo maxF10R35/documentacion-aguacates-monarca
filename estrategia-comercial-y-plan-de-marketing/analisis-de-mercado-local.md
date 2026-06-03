@@ -6,19 +6,19 @@ description: Estudio demográfico y comercial de la zona de influencia en Tláhu
 
 El aguacate es uno de los productos favoritos al momento de comer. Se puede encontrar en supermercados, recauderías, mercados y "puestitos". Las personas pueden adquirirlo donde más les agrade. Teniendo variedad de lugares, el consumidor decide en qué lugar es conveniente por el costo, el precio o la calidad. Todos estos lugares viven la constante competencia por vender, pero… ¿qué hacen ellos para llamar la atención de los compradores? Las grandes cadenas tienen capacidad para invertir en publicidad y equipos de marketing. ¿Qué pasa con los pequeños negocios? ¿Cómo le hacen para que los clientes los elijan a ellos?
 
-En este estudio lo averiguaremos. Hicimos un trabajo de campo en un pequeño puesto cercano a la casa de un alumno.
+En este estudio lo averiguaremos. Se implemento un instrumentó de recolección de datos para el punto de venta.
 
 Variables de Aguacates Monarca
 
 &#x20;
 
-Demográficas: Ciudad de México, Tlahuac, colonia Los Olivos.&#x20;
+Demográficas: Ciudad de México, Tláhuac, colonia Los Olivos.&#x20;
 
 Puesto situado en la calle.&#x20;
 
-Temporal: ventas por día: 10/15 kg por dia.&#x20;
+Temporal: ventas por día: 10/15 kg por día.&#x20;
 
-días de venta: lunes, miércoles, jueves, viernes, sabado, domingo.
+días de venta: lunes, miércoles, jueves, viernes, sábado, domingo.
 
 Horario: 11:00 a 18:00 Hrs
 

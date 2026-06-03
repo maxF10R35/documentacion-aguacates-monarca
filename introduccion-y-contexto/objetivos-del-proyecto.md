@@ -16,10 +16,10 @@ Entrenar un Árbol de regresión para saber cuánto va a valer nuestra producci�
 
 Predecir, mediante un modelo de regresión, la evolución de la producción en volumen de toneladas del aguacate en Michoacán.
 
-Encontrar la combinación de inventario que maximice las ganancias por la venta de aguacate en el punto de venta de cdmx.
+Encontrar la combinación de inventario que maximice las ganancias por la venta de aguacate en el punto de venta de CDMX.
 
 Predecir la probabilidad de lluvia para los meses de mayo, junio y julio y determinar una estrategia de ahorro y captación de lluvia por cada mes para aprovechar el agua natural y saber si se debe almacenar ahora para usar meses después.
 
-Llevar a cabo una investigación y un estudio de mercado sobre el aguacate en la cdmx y específicamente en la colonia Tlahuac
+Llevar a cabo una investigación y un estudio de mercado sobre el aguacate en la CDMX y específicamente en la alcaldia Tlahuac
 
 Proponer una estrategia de marketing para que Aguacates Monarca pueda brindar un mejor servicio a sus consumidores y también atraiga nuevos.
