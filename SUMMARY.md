@@ -24,18 +24,15 @@
 * [Fluctuación Histórica de Precios](fluctuacion-historica-de-precios.md)
 * [Pronóstico de Precios (Modelo ARIMA)](pronostico-de-precios-modelo-arima.md)
 
+## Gestión de Riesgo Climático y Sostenibilidad
+
+* [Impacto Climatológico en la cadena de suministros](gestion-de-riesgo-climatico-y-sostenibilidad/impacto-climatologico-en-la-cadena-de-suministros.md)
+* [Simulación Estocástica (Cadenas de Markov)](gestion-de-riesgo-climatico-y-sostenibilidad/simulacion-estocastica-cadenas-de-markov.md)
+
 ## Optimización de Inventario y Cadena de Suministro
 
 * [Planteamiento del Problema de Abastecimiento](optimizacion-de-inventario-y-cadena-de-suministro/planteamiento-del-problema-de-abastecimiento.md)
 * [Programación Lineal (Método Gráfico)](optimizacion-de-inventario-y-cadena-de-suministro/programacion-lineal-metodo-grafico.md)
-
-## Gestión de Riesgo Climático y Sostenibilidad
-
-***
-
-* [Impacto Climatológico en la Cosecha](impacto-climatologico-en-la-cosecha.md)
-* [Simulación Estocástica (Cadenas de Markov)](simulacion-estocastica-cadenas-de-markov.md)
-* [Plan de Acción Agrícola](plan-de-accion-agricola.md)
 
 ## Estrategia Comercial y Plan de Marketing
 
