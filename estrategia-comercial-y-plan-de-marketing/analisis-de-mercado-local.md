@@ -109,11 +109,21 @@ Para hacer el análisis, se separaron los clientes por edad: jóvenes de 18 a 29
 
 Los resultados mostraron que los tres grupos coinciden en algo importante: todos sienten que el precio actual del aguacate no es accesible. Sin embargo, cada grupo reacciona diferente ante un posible aumento.
 
-<img src="../.gitbook/assets/unknown (1).png" alt="Relacion entre preguntas y lo que nos da a entender. Imagen propia" height="361" width="602">
+<img src="../.gitbook/assets/unknown (1).png" alt="Relación entre preguntas y lo que nos da a entender. Imagen propia" height="361" width="602">
 
-&#x20;
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Imagen grafica de los patrones encontrados. Imagen propia</p></figcaption></figure>
+
+
+
+
 
 <img src="../.gitbook/assets/unknown (2).png" alt="Los mayores de 50 años compran en puestitos de la calle. Al igual que los jóvenes, dijeron que si el precio sube dejarían de comprar hasta que baje. Este grupo es el más frágil, porque además de ser sensibles al precio, su canal de compra es el más informal." height="163" width="602">
+
+<figure><img src="../.gitbook/assets/image (52).png" alt="" width="309"><figcaption><p>Imagen grafica de los patrones encontrados: Imagen propia</p></figcaption></figure>
+
+
+
+
 
 Mineria de marketing:
 
