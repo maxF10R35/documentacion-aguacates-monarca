@@ -1,6 +1,6 @@
 # El Paradigma del Mercado Justo
 
-Los pequeños productores agrícolas enfrentan un problema estructural que va más allá de la cosecha: la volatilidad del mercado. Cada temporada, miles de campesinos siembran con la esperanza de obtener un precio justo por su trabajo, pero al llegar a los centros de distribución, se topan con precios que cambian de un día para otro, intermediarios que fijan condiciones y una cadena de comercialización que rara vez beneficia a quien produjo el alimento.
+Los pequeños productores agrícolas enfrentan un problema estructural que va más allá de la cosecha: la volatilidad del mercado. Cada temporada, miles de campesinos siembran con la esperanza de obtener un precio justo por su trabajo, pero al llegar a los centros de distribución, se topan con precios que cambian de un día para otro, intermediarios que fijan condiciones y una cadena de comercialización que rara vez beneficia a quien lo produce.
 
 La volatilidad se manifiesta de varias formas. Por un lado, los precios al productor pueden caer drásticamente cuando hay sobreoferta, dejando a las familias con pérdidas. Por otro lado, esos mismos productos llegan a los consumidores finales con precios elevados, creando una desconexión absurda entre lo que recibe quien siembra y lo que paga quien consume. Esta distorsión se debe a múltiples factores: falta de información en tiempo real, dependencia de intermediarios, costos de transporte impredecibles y ausencia de mecanismos de almacenamiento que permitan vender en mejores momentos.
 
