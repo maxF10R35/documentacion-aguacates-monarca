@@ -19,3 +19,6 @@ SENASICA es el órgano desconcentrado de la Secretaría de Agricultura y Desarro
 * Naturaleza de los datos: Se procesó un padrón histórico anual que documenta la producción agrícola del aguacate Hass a nivel estatal, abarcando el periodo ininterrumpido de 2001 a 2023.
 * Variables clave: El conjunto de datos está estructurado en torno a indicadores de volumen y valor, destacando la Entidad Federativa (Estado), la Superficie Sembrada (en hectáreas), el Volumen Cosechado (en toneladas) y el Valor de la Producción (en millones de pesos mexicanos).
 * Aplicación en el proyecto: Estos registros componen la base del análisis macroeconómico. Al estandarizar las magnitudes de superficie y volumen, los datos alimentan la regresión polinomial para evaluar las tendencias de crecimiento nacional y sostienen el entrenamiento del árbol de regresión. Este modelo permite proyectar el rendimiento de toneladas por hectárea en Michoacán, justificando estratégicamente la ubicación de los cultivos de la empresa.
+*
+
+    <figure><img src="../.gitbook/assets/sniim.jpeg" alt=""><figcaption></figcaption></figure>

@@ -10,13 +10,11 @@ En este estudio lo averiguaremos. Se implemento un instrumentó de recolección 
 
 Variables de Aguacates Monarca
 
-&#x20;
+Demográficas: Ciudad de México, Tláhuac, colonia Los Olivos.
 
-Demográficas: Ciudad de México, Tláhuac, colonia Los Olivos.&#x20;
+Puesto situado en la calle.
 
-Puesto situado en la calle.&#x20;
-
-Temporal: ventas por día: 10/15 kg por día.&#x20;
+Temporal: ventas por día: 10/15 kg por día.
 
 días de venta: lunes, miércoles, jueves, viernes, sábado, domingo.
 
@@ -35,7 +33,7 @@ clientes: Vecinos y personales cercanas al local.
 Para cubrir esta materia, se generó una encuesta para conocer el gusto de clientes, vecinos, compañeros de la universidad, profesores y personas cercanas a los alumnos involucrados en el equipo. Las preguntas fueron basadas en el tema de las 7Ps visto en clase, lo que habla el tema es:
 
 Producto (Product)\
-Se refiere a lo que vendes, pero también a los beneficios y la experiencia que ofreces. No es solo el aguacate, sino su calidad, frescura, presentación y la garantía de que está en buen estado.&#x20;
+Se refiere a lo que vendes, pero también a los beneficios y la experiencia que ofreces. No es solo el aguacate, sino su calidad, frescura, presentación y la garantía de que está en buen estado.
 
 Precio (Price)\
 Es el costo que el cliente paga, pero también la percepción de valor. No se trata solo de ser el más barato, sino de que el cliente sienta que lo que paga vale lo que recibe. Plaza (Place)\
@@ -83,19 +81,19 @@ Personas: Atención, relación con el vendedor, confianza:
 
 <figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>La mayoría de los clientes compran aguacate para consumo familiar (80.2%), dejando muy por debajo la compra para uso personal o para negocio, lo que refuerza que el producto se percibe como un básico del hogar. Imagen propia</p></figcaption></figure>
 
-Proceso: Forma de comparar, facilidad de compra y forma de como se realizan los cobros:&#x20;
+Proceso: Forma de comparar, facilidad de compra y forma de como se realizan los cobros:
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>Más de la mitad de los clientes (57.4%) se enteran del precio del aguacate simplemente cuando pasan por el puesto y lo ven, lo que confirma que la decisión de compra sigue siendo impulsiva y visual, más que planificada o digital. imagen propia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Más de la mitad de los clientes (57.4%) se enteran del precio del aguacate simplemente cuando pasan por el puesto y lo ven, lo que confirma que la decisión de compra sigue siendo impulsiva y visual, más que planificada o digital. imagen propia</p></figcaption></figure>
 
 Evidencia Física: Presentación, limpieza, imagen del lugar.
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>"Los clientes valoran de manera muy equilibrada las cuatro características principales del aguacate, siendo la frescura la que encabeza ligeramente la preferencia, pero sin que ninguna destaque de forma abrumadora." Imagen propia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>"Los clientes valoran de manera muy equilibrada las cuatro características principales del aguacate, siendo la frescura la que encabeza ligeramente la preferencia, pero sin que ninguna destaque de forma abrumadora." Imagen propia</p></figcaption></figure>
 
 ¿Esto para que nos sirve?
 
 Logramos entender que la decisión de compra de los clientes no depende únicamente del precio o la ubicación. Factores como la confianza en el vendedor (Personas), la rapidez, la frescura del producto (Producto) y la comunicación de ofertas (Promoción) son igual o más importantes para que un pequeño negocio compita con cadenas grandes y mercados. Identificamos áreas de mejora concretas, como el uso de WhatsApp para avisar de producto fresco, mejorar la señalización de precios y aprovechar los días de mayor afluencia (sábado y domingo) con promociones especiales.
 
-Además, nos permite descubrir qué valoran realmente los vecinos y transeúntes: si prefieren pagar un poco más por mejor trato  o si la competencia del tianguis los martes y viernes es una amenaza real. En conclusión, un pequeño puesto puede competir sin gran presupuesto enfocándose en la experiencia del cliente, la confianza y la creatividad en la promoción.
+Además, nos permite descubrir qué valoran realmente los vecinos y transeúntes: si prefieren pagar un poco más por mejor trato o si la competencia del tianguis los martes y viernes es una amenaza real. En conclusión, un pequeño puesto puede competir sin gran presupuesto enfocándose en la experiencia del cliente, la confianza y la creatividad en la promoción.
 
 <figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption><p>"Infografía que resume los factores clave de decisión de compra en un pequeño negocio de aguacates: confianza en el vendedor, frescura del producto, rapidez en el servicio y promoción efectiva como el uso de WhatsApp." Imagen propia</p></figcaption></figure>
 
@@ -113,16 +111,20 @@ Los resultados mostraron que los tres grupos coinciden en algo importante: todos
 
 <img src="../.gitbook/assets/unknown (1).png" alt="Relacion entre preguntas y lo que nos da a entender. Imagen propia" height="361" width="602">
 
+&#x20;
+
 <img src="../.gitbook/assets/unknown (2).png" alt="Los mayores de 50 años compran en puestitos de la calle. Al igual que los jóvenes, dijeron que si el precio sube dejarían de comprar hasta que baje. Este grupo es el más frágil, porque además de ser sensibles al precio, su canal de compra es el más informal." height="163" width="602">
 
 Mineria de marketing:
 
-En  los canales de compra, la tabla que cruza edad con lugar muestra que los jóvenes prefieren fuertemente el tianguis, los adultos se reparten entre recauderías y tianguis, y los mayores se inclinan por los puestitos de la calle. El tianguis es el canal más usado en general, seguido por las recauderías. Sobre lo que más valoran los clientes al elegir un aguacate, los jóvenes priorizan la frescura, mientras que los adultos y mayores valoran más el sabor. Esto es importante para definir los mensajes de comunicación: para jóvenes se debe destacar la frescura, para adultos y mayores el buen sabor.
+En los canales de compra, la tabla que cruza edad con lugar muestra que los jóvenes prefieren fuertemente el tianguis, los adultos se reparten entre recauderías y tianguis, y los mayores se inclinan por los puestitos de la calle. El tianguis es el canal más usado en general, seguido por las recauderías. Sobre lo que más valoran los clientes al elegir un aguacate, los jóvenes priorizan la frescura, mientras que los adultos y mayores valoran más el sabor. Esto es importante para definir los mensajes de comunicación: para jóvenes se debe destacar la frescura, para adultos y mayores el buen sabor.
 
 Uno de los hallazgos más importantes es el riesgo de abandono. Se calculó qué porcentaje de clientes dejaría de comprar si el precio sube. Los resultados muestran que el 60 por ciento de los jóvenes abandonaría temporalmente, el 30 por ciento de los adultos reduciría su consumo pero no dejaría de comprar, y los mayores también tienen un alto porcentaje de abandono. En términos totales, aproximadamente la mitad de los clientes está en riesgo de dejar de comprar si el precio aumenta.
 
 <br>
 
 <img src="../.gitbook/assets/unknown (5).png" alt="Las personas encuestadas prefieren comprar en tianguis y recauderias locales, que en supermercados al momento de comprar aguacate. Imagen propia" height="299" width="602">
+
+&#x20;
 
 <img src="../.gitbook/assets/unknown (6).png" alt="Si subieran el precio del aguacate, los clientes seguirian comprando en menor cantidad. Esto habla del gusto por el producto. Imagen propia" height="373" width="602">

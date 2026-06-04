@@ -18,7 +18,7 @@ Finalmente, para el desarrollo de la proyección con el modelo ARIMA, se constru
 
 En el caso de la producción de Aguacate, se consultó al Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria. Dado que los datos eran solicitados a una API de Power BI, se usó el análisis de las respuestas en formato json y se recolectaron 405 registros que van desde el 2001 hasta el 2023. Las columnas que conforman este dataset son: Estado, Superficie Sembrada en hectáreas (ha), Volumen Cosechado en Toneladas, Valor que tiene la Cosecha en Pesos Mexicanos y Año de análisis.
 
-Se procesó la base de datos de producción agrícola de aguacate Hass en la pagina del  Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA), la cual abarca el periodo histórico de 2001 a 2023, obteniendo 404 filas. En una primera etapa, los datos eran solicitados a una API de Power BI, se usó el análisis de las respuestas en formato json y posteriormente fue exportado como un archivo `.csv` para optimizar su ingesta. Después, la información se cargó en un entorno de PySpark aplicando un esquema de datos estructurado conformado por cinco variables principales: Estado, Superficie\_Ha, Volumen\_Ton, Valor\_MXN y Anio.
+Se procesó la base de datos de producción agrícola de aguacate Hass en la pagina del Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA), la cual abarca el periodo histórico de 2001 a 2023, obteniendo 404 filas. En una primera etapa, los datos eran solicitados a una API de Power BI, se usó el análisis de las respuestas en formato json y posteriormente fue exportado como un archivo `.csv` para optimizar su ingesta. Después, la información se cargó en un entorno de PySpark aplicando un esquema de datos estructurado conformado por cinco variables principales: Estado, Superficie\_Ha, Volumen\_Ton, Valor\_MXN y Anio.
 
 Durante la fase de auditoría de calidad de datos, se calculó la frecuencia y el porcentaje de valores nulos por columna. Los resultados confirmaron que el conjunto de datos, compuesto por 404 registros, estaba completamente íntegro, presentando un 0% de campos vacíos en todas sus variables. A partir de este _dataset_ completo, se generó un resumen estadístico para analizar la distribución, los promedios y los valores atípicos a lo largo de los 23 años analizados.
 
@@ -48,3 +48,5 @@ graph TD
         B3 --> B4["📤 4. Exportación<br>Forzado de partición única<br>Salida .CSV estandarizada"]:::salida
     end
 ```
+
+<figure><img src="../.gitbook/assets/senasica.jpeg" alt=""><figcaption></figcaption></figure>

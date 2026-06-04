@@ -19,8 +19,6 @@
 
 ## Comportamiento y Predicción del Mercado
 
-***
-
 * [Fluctuación Histórica de Precios](fluctuacion-historica-de-precios.md)
 * [Pronóstico de Precios (Modelo ARIMA)](pronostico-de-precios-modelo-arima.md)
 
@@ -41,8 +39,6 @@
 * [Maximización de Ventas](estrategia-comercial-y-plan-de-marketing/maximizacion-de-ventas.md)
 
 ## Conclusiones
-
-***
 
 * [Integración de Resultados](integracion-de-resultados.md)
 
