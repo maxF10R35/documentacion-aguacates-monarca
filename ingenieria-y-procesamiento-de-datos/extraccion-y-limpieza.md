@@ -36,13 +36,13 @@ graph TD
     classDef transformacion fill:#e8f5e9,stroke:#388e3c,stroke-width:2px,color:#000
     classDef salida fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#000
 
-    subgraph Pipeline A: Microeconomía y Precios (SNIIM)
+    subgraph Pipeline_A [Pipeline A - Microeconomia y Precios]
         A1["📥 1. Extracción<br>Web Scraping (BeautifulSoup)<br>717,114 registros brutos"]:::extraccion --> A2["🧹 2. Limpieza Estructural<br>Desduplicación (33% conservado)<br>Realineación de columnas"]:::limpieza
         A2 --> A3["⚙️ 3. Transformación<br>Ingeniería de Características (Kg)<br>Filtro Z-Score dinámico (Outliers)"]:::transformacion
         A3 --> A4["📈 4. Serie de Tiempo (ARIMA)<br>Aislamiento: CEDA Iztapalapa, Caja 9kg<br>Interpolación Lineal Pandas"]:::salida
     end
 
-    subgraph Pipeline B: Macroeconomía y Rendimiento (SENASICA)
+    subgraph Pipeline_B [Pipeline B - Macroeconomia y Rendimiento]
         B1["📥 1. Extracción<br>API Power BI (JSON)<br>404 registros base"]:::extraccion --> B2["🧹 2. Ingesta y Auditoría<br>Entorno PySpark<br>Verificación 0% Nulos"]:::limpieza
         B2 --> B3["⚙️ 3. Transformación Escalar<br>Ajuste de Magnitudes lineales<br>(Miles de Ha, Millones MXN)"]:::transformacion
         B3 --> B4["📤 4. Exportación<br>Forzado de partición única<br>Salida .CSV estandarizada"]:::salida
