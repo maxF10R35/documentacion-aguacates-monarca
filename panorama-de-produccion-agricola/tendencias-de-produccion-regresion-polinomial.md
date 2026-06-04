@@ -14,7 +14,7 @@ $$
 Y = \beta_0 + \beta_1 X + \beta_2 X^2 + \dots + \beta_n X^n + \epsilon
 $$
 
-Los resultados del entrenamiento revelaron un ajuste matemático excepcional para un polinomio de Grado 3, obteniendo un Coeficiente de Determinación ($$ $R^2$ $$) de 0.9890 para la expansión territorial y de 0.9755 para el volumen cosechado. Esto demuestra que el crecimiento histórico de la industria aguacatera en la región obedece a un patrón estadísticamente predecible.
+Los resultados del entrenamiento revelaron un ajuste matemático excepcional para un polinomio de Grado 2, obteniendo un Coeficiente de Determinación ($$R^2$$) de 0.9890 para la expansión territorial y de 0.9755 para el volumen cosechado. Esto demuestra que el crecimiento histórico de la industria aguacatera en la región obedece a un patrón estadísticamente predecible.
 
 <figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
