@@ -14,11 +14,8 @@ El puesto enfrenta una competencia constante con recauderías, mercados y superm
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Lona publicitaria del micronegocio. Imagen propia</p></figcaption></figure>
 
+<div align="center"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Cercano al puesto se pueden encontrar locales donde se oferta el mismo producto y las personas siempre pueden elegir en donde comprar. Imagen propia</p></figcaption></figure></div>
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Los supermercados ofrecen aguacate, pero este suele venir sin madurar para tener mas tiempo de vida y esperar a ser vendido. Imagen propia</p></figcaption></figure>
 
-<div align="center"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Cercano al puesto se pueden encontrar locales donde se oferta el mismo producto y las personas siempre pueden elegir en donde comprar. Imagen propia</p></figcaption></figure></div>
-
-
-
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>Otra opción son los supermercados, donde venden el producto embolsado, sin madurar y cerrado. Si buscas solo una pieza o comerlo al momento, tendrás que esperar unos días. Imagen propia</p></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>El producto viene embolsado, sin madurar y cerrado. Si buscas solo una pieza o comerlo al momento, tendrás que esperar unos días. Imagen propia</p></figcaption></figure>

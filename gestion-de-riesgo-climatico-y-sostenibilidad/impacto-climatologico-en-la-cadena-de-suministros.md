@@ -10,7 +10,7 @@ Para transicionar de una gestión reactiva y empírica hacia una estrategia de *
 
 ***
 
-#### &#x20;Matriz de Transición del clima de Zitacuaro
+#### Matriz de Transición del clima de Zitacuaro
 
 El análisis estocástico se fundamenta en la recopilación de frecuencias y transiciones reales observadas en la zona durante un muestreo base de 30 días, el cual registró un comportamiento inicial de 12 días soleados, 16 días mixtos y 2 días lluviosos. A partir de estos registros, la matriz de transición de estados P queda correctamente definida por su notación decimal pulcra, garantizando la condición de cerradura donde cada fila (intensidad de probabilidad de cambio) suma exactamente 1:
 
@@ -34,13 +34,13 @@ La importancia de este 62.5% de probabilidad conjunta de eventos pluviales (suma
 
 Los suelos de Zitácuaro son de origen volcánico (Andosoles), caracterizados por una excelente porosidad pero altamente susceptibles a la lixiviación. El modelo estocástico nos advierte que un 12.5% de días bajo tormentas continuas provocará el "lavado" de macroelementos esenciales (nitrógeno y potasio) hacia capas profundas del subsuelo, lejos de la zona radicular activa del árbol. Esta alerta matemática permite a la empresa anticipar planes de fertirriego inmediato y colocar coberturas vegetales orgánicas (_mulch_) en el cajete para mitigar la erosión y el aborto mecánico del fruto.
 
-&#x20;**Reducción de Costos Energéticos vs. Presión Fitosanitaria**
+**Reducción de Costos Energéticos vs. Presión Fitosanitaria**
 
 El aporte hídrico natural del trimestre beneficia el llenado y calibre del aguacate sin necesidad de activar sistemas de bombeo artificial, disminuyendo drásticamente el costo de energía eléctrica de la organización. No obstante, el 50% de probabilidad en el estado mixto (s\_2) genera un "efecto incubadora" (humedad relativa elevada combinada con temperaturas templadas) idóneo para la proliferación del hongo _Phytophthora cinnamomi_ (tristeza del aguacate). El modelo actúa aquí como un sistema de alerta temprana para calendarizar aplicaciones preventivas de control biológico antes de que se afecte el estándar de calidad comercial.
 
 **Sincronización Logística y Suministro en Piso de Venta**
 
-Finalmente, este modelo se acopla de forma armónica con nuestra programación lineal diaria. Cuando las Cadenas de Markov proyectan días bajo el estado soleado (s\_1), las carreteras de la ruta Zitácuaro-CDMX se reportan seguras y el fruto alcanza su firmeza premium óptima para traslado en la Nissan de 1 tonelada. Esto expande geométricamente nuestra **Región Factible** de compra, otorgando luz verde para ejecutar la carga óptima calculada de 16 cajas en Michoacán y 10 cajas en la Central de Abasto, maximizando la ganancia real de $3,811.40 MXN sin comprometer la seguridad logística ni saturar la capacidad del almacén comercial. <br>
+Finalmente, este modelo se acopla de forma armónica con nuestra programación lineal diaria. Cuando las Cadenas de Markov proyectan días bajo el estado soleado (s\_1), las carreteras de la ruta Zitácuaro-CDMX se reportan seguras y el fruto alcanza su firmeza premium óptima para traslado en la Nissan de 1 tonelada. Esto expande geométricamente nuestra **Región Factible** de compra, otorgando luz verde para ejecutar la carga óptima calculada de 16 cajas en Michoacán y 10 cajas en la Central de Abasto, maximizando la ganancia real de $3,811.40 MXN sin comprometer la seguridad logística ni saturar la capacidad del almacén comercial.<br>
 
 #### Nota Técnica: Glosario de Conceptos Agronómicos y Fenológicos
 
@@ -57,3 +57,4 @@ Para facilitar la comprensión del impacto que tienen las Cadenas de Markov y la
 * **Presión Fitosanitaria:** Es el grado de riesgo o la fuerza con la que los agentes biológicos nocivos (como plagas, insectos o enfermedades fúngicas) amenazan la salud y productividad de un cultivo en un momento determinado. En nuestro modelo, el estado mixto de Sol/Lluvia eleva esta presión al crear las condiciones de humedad y temperatura perfectas para la incubación de hongos patógenos.
 * **Phytophthora cinnamomi (Tristeza del Aguacate):** Es un organismo de la clase de los oomicetos (comúnmente clasificado como hongo) que ataca de forma agresiva el sistema radicular del árbol de aguacate. Destruye las raíces encargadas de absorber agua y nutrientes, provocando marchitamiento, caída del fruto y, en casos graves, la muerte del árbol. Su monitoreo es vital durante los meses con alta probabilidad de humedad estagnada.
 
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Modelado del clima. Imagen propia</p></figcaption></figure>

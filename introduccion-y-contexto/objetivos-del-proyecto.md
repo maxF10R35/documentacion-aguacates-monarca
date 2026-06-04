@@ -20,6 +20,8 @@ Encontrar la combinación de inventario que maximice las ganancias por la venta 
 
 Predecir la probabilidad de lluvia para los meses de mayo, junio y julio y determinar una estrategia de ahorro y captación de lluvia por cada mes para aprovechar el agua natural y saber si se debe almacenar ahora para usar meses después.
 
-Llevar a cabo una investigación y un estudio de mercado sobre el aguacate en la CDMX y específicamente en la alcaldia Tlahuac
+Llevar a cabo una investigación y un estudio de mercado sobre el aguacate en la CDMX y específicamente en la alcaldía Tláhuac
 
 Proponer una estrategia de marketing para que Aguacates Monarca pueda brindar un mejor servicio a sus consumidores y también atraiga nuevos.
+
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption><p>Imagen descriptiva de los objetivos. Imagen propia</p></figcaption></figure>
