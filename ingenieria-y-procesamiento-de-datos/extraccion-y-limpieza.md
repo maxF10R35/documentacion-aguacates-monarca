@@ -30,22 +30,29 @@ Finalmente, el conjunto de datos transformado se empaquetó forzando una única 
 
 ```mermaid
 graph TD
-    %% Estilos de los nodos
+    %% Estilos de los nodos (Colores corporativos)
     classDef extraccion fill:#e1f5fe,stroke:#0288d1,stroke-width:2px,color:#000
     classDef limpieza fill:#fff3e0,stroke:#f57c00,stroke-width:2px,color:#000
     classDef transformacion fill:#e8f5e9,stroke:#388e3c,stroke-width:2px,color:#000
     classDef salida fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#000
 
-    subgraph Pipeline_A [Pipeline A - Microeconomia y Precios]
-        A1["📥 1. Extracción<br>Web Scraping (BeautifulSoup)<br>717,114 registros brutos"]:::extraccion --> A2["🧹 2. Limpieza Estructural<br>Desduplicación (33% conservado)<br>Realineación de columnas"]:::limpieza
-        A2 --> A3["⚙️ 3. Transformación<br>Ingeniería de Características (Kg)<br>Filtro Z-Score dinámico (Outliers)"]:::transformacion
-        A3 --> A4["📈 4. Serie de Tiempo (ARIMA)<br>Aislamiento: CEDA Iztapalapa, Caja 9kg<br>Interpolación Lineal Pandas"]:::salida
-    end
+    subgraph Arquitectura_Global [Arquitectura Global de Procesamiento de Datos]
+        
+        subgraph Pipeline_A [Pipeline A - Microeconomia y Precios]
+            A1["📥 1. Extracción<br>Web Scraping (BeautifulSoup)<br>717,114 registros brutos"]:::extraccion --> A2["🧹 2. Limpieza Estructural<br>Desduplicación (33% conservado)<br>Realineación de columnas"]:::limpieza
+            A2 --> A3["⚙️ 3. Transformación<br>Ingeniería de Características (Kg)<br>Filtro Z-Score dinámico (Outliers)"]:::transformacion
+            A3 --> A4["📈 4. Serie de Tiempo (ARIMA)<br>Aislamiento: CEDA Iztapalapa, Caja 9kg<br>Interpolación Lineal Pandas"]:::salida
+        end
 
-    subgraph Pipeline_B [Pipeline B - Macroeconomia y Rendimiento]
-        B1["📥 1. Extracción<br>API Power BI (JSON)<br>404 registros base"]:::extraccion --> B2["🧹 2. Ingesta y Auditoría<br>Entorno PySpark<br>Verificación 0% Nulos"]:::limpieza
-        B2 --> B3["⚙️ 3. Transformación Escalar<br>Ajuste de Magnitudes lineales<br>(Miles de Ha, Millones MXN)"]:::transformacion
-        B3 --> B4["📤 4. Exportación<br>Forzado de partición única<br>Salida .CSV estandarizada"]:::salida
+        %% Enlace invisible para forzar el apilamiento vertical exacto
+        A4 ~~~ B1
+
+        subgraph Pipeline_B [Pipeline B - Macroeconomia y Rendimiento]
+            B1["📥 1. Extracción<br>API Power BI (JSON)<br>404 registros base"]:::extraccion --> B2["🧹 2. Ingesta y Auditoría<br>Entorno PySpark<br>Verificación 0% Nulos"]:::limpieza
+            B2 --> B3["⚙️ 3. Transformación Escalar<br>Ajuste de Magnitudes lineales<br>(Miles de Ha, Millones MXN)"]:::transformacion
+            B3 --> B4["📤 4. Exportación<br>Forzado de partición única<br>Salida .CSV estandarizada"]:::salida
+        end
+        
     end
 ```
 
