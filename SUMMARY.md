@@ -46,3 +46,4 @@
 
 * [referencias](referencias-y-anexos/referencias.md)
 * [Links](referencias-y-anexos/links.md)
+* [QR](referencias-y-anexos/qr.md)
